@@ -40,8 +40,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Meu Primeiro Site](https://github.com/seuusuario/meu-primeiro-site) | Página simples usando HTML e CSS | HTML CSS |
-| [Lista de Tarefas](https://github.com/seuusuario/lista-de-tarefas) | App básico com JavaScript | HTML CSS JavaScript |
+| [Meu primeiro programa](https://github.com/GenisonLeal/mercado) | Programa de mercado | Java |
+| [Programa de monitoramento](https://github.com/GenisonLeal/ProjetoADS) | App básico com Java | 
 
 ---
 
