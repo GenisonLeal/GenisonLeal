@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=3500&pause=1000&width=435&lines=Hi!+My+name+is+Genison+Leal+%F0%9F%91%8B%F0%9F%8F%BF;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&duration=3500&pause=1000&width=435&lines=Hi!+My+name+is+Genison+Leal+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="center">
@@ -14,19 +14,22 @@
 ### Languages
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge for-the-badge" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-  
-### Frameworks
-  <div align="center">
-    <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit Badge for-the-badge" />
-  </div>
 
 ### Databases
   <div align="center">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </div>
+  
+### Frameworks
+  <div align="center">
+    <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit Badge for-the-badge" />
   </div>
 
 ### Tools
@@ -75,5 +78,5 @@
 ---
 
 <p align="center">
-  ⭐ Se você curtiu algum projeto, deixe uma estrela ou me mande uma dica!<br>
+  ⭐ If you liked any project, leave a star or send me a tip!<br>
 </p>
