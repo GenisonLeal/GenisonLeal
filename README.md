@@ -29,38 +29,39 @@
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </div>
 
-### Ferramentas
+### Tools
   <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </div>
+
 ---
 
-### 📚 Atualmente estudando
+### 📚 Currently studying
 
-- Gerência de Configuração de Software
-- Gerência de Qualidade de Software
-- Controle de versão com Git e GitHub
+- Software Configuration Management
+- Software Quality Management
+- Version Control with Git and GitHub
 - JUnit
 
 ---
 
-### ✨ Meus objetivos
+### ✨ My goals
 
-- 🚀 Conseguir minha primeira oportunidade na área de tecnologia
+- 🚀 Getting my first opportunity in technology
 
 ---
 
-### 📌 Repositórios em destaque
+### 📌 Featured Repositories
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Technologies |
 |--------|-----------|-------------|
-| [Meu primeiro programa](https://github.com/GenisonLeal/mercado) | Programa de mercado | Java |
-| [Programa de monitoramento](https://github.com/GenisonLeal/ProjetoADS) | App básico com Java | Java |
+| [My first program](https://github.com/GenisonLeal/mercado) | Market Program | Java |
+| [Monitoring Program](https://github.com/GenisonLeal/ProjetoADS) | Basic app with Java | Java |
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Where to find me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/genison-leal-754494181/" target="_blank">
