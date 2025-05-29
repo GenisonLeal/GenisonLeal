@@ -42,7 +42,7 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Meu primeiro programa](https://github.com/GenisonLeal/mercado) | Programa de mercado | Java |
-| [Programa de monitoramento](https://github.com/GenisonLeal/ProjetoADS) | App básico com Java | 
+| [Programa de monitoramento](https://github.com/GenisonLeal/ProjetoADS) | App básico com Java | Java |
 
 ---
 
