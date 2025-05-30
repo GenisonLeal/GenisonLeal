@@ -30,6 +30,7 @@
 ### Frameworks
   <div align="center">
     <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit Badge for-the-badge" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge" />
   </div>
 
 ### Tools
