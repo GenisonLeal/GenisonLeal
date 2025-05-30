@@ -37,6 +37,8 @@
   <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix Badge" />
+    <img src="https://img.shields.io/badge/Grafana-F47A00?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge" />
   </div>
 
 ---
