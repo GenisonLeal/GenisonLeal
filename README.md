@@ -13,11 +13,6 @@
 
 <br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=genisonleal&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=genisonleal&layout=compact&langs_count=7&theme=dark&border_radius=10"/>
-</div>
-
 ---
 
 ### 🧑‍💻 Sobre Mim
