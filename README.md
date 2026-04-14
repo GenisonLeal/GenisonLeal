@@ -6,9 +6,12 @@
   </a>
 </div>
 
-<p align="center">
-  <strong>Software Developer in training | Tech Enthusiast | Open Source Lover</strong>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Developer-Python%20%7C%20Java%20%7C%20AI-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange?style=flat-square">
+</div>
+
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genisonleal&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=10"/>
@@ -19,10 +22,10 @@
 
 ### 🧑‍💻 Sobre Mim
 
-- 👋 Olá! Sou o *Genison*, um entusiasta de tecnologia focado em desenvolvimento de software.
-- 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas.
-- 🎯 Meu foco principal é criar soluções eficientes e aprender novas tecnologias todos os dias.
-- 🚀 Em busca da minha primeira oportunidade oficial no mercado tech!
+- 👋 Olá! Sou o *Genison*, desenvolvedor focado em soluções inteligentes.
+- 🎓 Graduado em *Análise e Desenvolvimento de Sistemas*.
+- 📚 Atualmente cursando especialização em *Inteligência Artificial e Machine Learning*.
+- 🤖 Interessado em automação, análise de dados e algoritmos preditivos.
 
 ---
 
@@ -30,33 +33,19 @@
 
 <div align="center">
 
-*Languages* ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+*Languages & AI* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 *Databases* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-*Frameworks & Testing* ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-
-*Observability & Tools* ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+*Tools & Infrastructure* ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F47A00?style=flat-square&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
-
----
-
-### 📚 Atualmente Estudando
-
-* *Gestão de Configuração e Qualidade de Software* 🧪
-* *Versionamento Avançado* (Git Flow) 🌳
-* *Testes Unitários com JUnit* 🛠️
 
 ---
 
@@ -64,8 +53,9 @@
 
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :---: | :---: |
-| *Mercado Java* | Sistema simples para gerenciamento de mercado. | Java | [Acessar](https://github.com/GenisonLeal/mercado) |
-| *Monitoramento ADS* | Aplicação básica de monitoramento em Java. | Java | [Acessar](https://github.com/GenisonLeal/ProjetoADS) |
+| *AI Predictor* | Modelo de Machine Learning para análise preditiva. | Python | [Acessar](#) |
+| *Data Analysis Script* | Automação de tratamento de dados e geração de insights. | Python | [Acessar](#) |
+| *Network Auth Script* | Script de autenticação 802.1x para ambientes Linux/AD. | Shell/Python | [Acessar](#) |
 
 ---
 
@@ -83,6 +73,5 @@
 <br>
 
 <p align="center">
-  <em>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</em><br>
   ⭐️ Se você gostou de algum projeto, sinta-se à vontade para deixar uma estrela!
 </p>
