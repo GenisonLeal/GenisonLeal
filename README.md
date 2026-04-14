@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Developer-Python%20%7C%20Java%20%7C%20AI-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Developer-Python%20%7C%20Java-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Studying-AI%20%26%20Machine%20Learning-orange?style=flat-square">
 </div>
 
 <br>
@@ -22,10 +22,10 @@
 
 ### 🧑‍💻 Sobre Mim
 
-- 👋 Olá! Sou o *Genison*, desenvolvedor focado em soluções inteligentes.
-- 🎓 Graduado em *Análise e Desenvolvimento de Sistemas*.
-- 📚 Atualmente cursando especialização em *Inteligência Artificial e Machine Learning*.
-- 🤖 Interessado em automação, análise de dados e algoritmos preditivos.
+- 👋 Olá! Sou o *Genison*, profissional de TI em transição para desenvolvimento.
+- 🎓 Graduado em *Análise e Desenvolvimento de Sistemas (ADS)*.
+- 🤖 Atualmente cursando pós-graduação/especialização em *Inteligência Artificial e Machine Learning*.
+- 🚀 Em busca da minha primeira oportunidade como desenvolvedor!
 
 ---
 
@@ -33,17 +33,21 @@
 
 <div align="center">
 
-*Languages & AI* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+*Languages* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-*Databases* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+*Databases* ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-*Tools & Infrastructure* ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F47A00?style=flat-square&logo=grafana&logoColor=white)
+*Frameworks & Tools* ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F47A00?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -51,27 +55,26 @@
 
 ### 📌 Repositórios em Destaque
 
-| Projeto | Descrição | Stack | Link |
-| :--- | :--- | :---: | :---: |
-| *AI Predictor* | Modelo de Machine Learning para análise preditiva. | Python | [Acessar](#) |
-| *Data Analysis Script* | Automação de tratamento de dados e geração de insights. | Python | [Acessar](#) |
-| *Network Auth Script* | Script de autenticação 802.1x para ambientes Linux/AD. | Shell/Python | [Acessar](#) |
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| [Auth Script Linux](https://github.com/GenisonLeal/SeuRepositorioAqui) | Script de autenticação 802.1x para Ubuntu/AD. | Python / Shell |
+| [E-ducando](https://github.com/GenisonLeal/E-ducando) | Projeto web com foco em educação. | React / JS |
 
 ---
 
-### 📫 Conecte-se comigo
+### 📫 Where to find me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/genison-leal-754494181/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:genisonleal@gmail.com">
+  <a href="genisonleal@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-<br>
+---
 
 <p align="center">
-  ⭐️ Se você gostou de algum projeto, sinta-se à vontade para deixar uma estrela!
+  ⭐ If you liked any project, leave a star!<br>
 </p>
